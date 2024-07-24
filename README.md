@@ -7,9 +7,10 @@ Explore my portfolio to see more of my work:
 
 ✨[My Portfolio Website](https://deepaknetwork.github.io/portfolio)
 
+## Live Projects 🌐
 <div>
   <div aling="left"> 
-Here are some of my live projects:
+   Here are some of my live projects:
 
 - **✨Law Advisor**: [law-zone.com](https://deepaknetwork.github.io/law.net) 
 
@@ -22,8 +23,5 @@ Here are some of my live projects:
   
    <img src="https://github.com/deepaknetwork/deepaknetwork/blob/main/dazzle-line-man-programmer-writing-code-on-a-laptop-1.gif" width="300px"  alt="Autoplaying GIF">
 </div>
-
-## Live Projects 🌐
-
 
 Feel free to explore them and give feedback!
