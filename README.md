@@ -21,7 +21,7 @@ Explore my portfolio to see more of my work:
 
   - A CRM application connecting with customers using REST API and MongoDB.
   </div>
-  <div align="center"> <img  src="https://github.com/deepaknetwork/deepaknetwork/blob/main/dazzle-line-man-programmer-writing-code-on-a-laptop-1.gif" width="600px" /></div>
+  <div align="center"> <img  src="https://github.com/deepaknetwork/deepaknetwork/blob/main/dazzle-line-man-programmer-writing-code-on-a-laptop-1.png" width="400px" /></div>
   
    </div>
 
