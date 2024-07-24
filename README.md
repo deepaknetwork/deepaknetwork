@@ -8,19 +8,21 @@ Explore my portfolio to see more of my work:
 ✨[My Portfolio Website](https://deepaknetwork.github.io/portfolio)
 
 ## Live Projects 🌐
-  <div  style="display: flex; align-items: center;">
-  <div style="flex: 1;"> 
-   Here are some of my live projects:
-    
-- **✨Law Advisor**: [law-zone.com](https://deepaknetwork.github.io/law.net)
-  - A platform that suggests laws based on location. Built with .NET, Angular, and Redis.
-
-- **✨Customer Relationship Management (CRM)**: [crmadmin](https://deepaknetwork.github.io/crmadmin) | [crmclient](https://deepaknetwork.github.io/crmuser)
-
-  - A CRM application connecting with customers using REST API and MongoDB.
-  </div>
-  
-   <img src="https://github.com/deepaknetwork/deepaknetwork/blob/main/dazzle-line-man-programmer-writing-code-on-a-laptop-1.gif" width="300px"  alt="Autoplaying">
-   </div>
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 60%;">
+      <p>Here are some of my live projects:</p>
+      <ul>
+        <li><strong>✨ Law Advisor</strong>: <a href="https://deepaknetwork.github.io/law.net">law-zone.com</a></li>
+        <li>A platform that suggests laws based on location. Built with .NET, Angular, and Redis.</li>
+        <li><strong>✨ Customer Relationship Management (CRM)</strong>: <a href="https://deepaknetwork.github.io/crmadmin">crmadmin</a> | <a href="https://deepaknetwork.github.io/crmuser">crmclient</a></li>
+        <li>A CRM application connecting with customers using REST API and MongoDB.</li>
+      </ul>
+    </td>
+    <td style="width: 40%;">
+      <img src="https://github.com/deepaknetwork/deepaknetwork/blob/main/dazzle-line-man-programmer-writing-code-on-a-laptop-1.gif" width="300px" alt="Autoplaying">
+    </td>
+  </tr>
+</table>
 
 Feel free to explore them and give feedback!
