@@ -8,9 +8,9 @@ Explore my portfolio to see more of my work:
 ✨[My Portfolio Website](https://deepaknetwork.github.io/portfolio)
 
 ## Live Projects 🌐
-<table>
+<table style="border:none;">
   <tr>
-    <td style="vertical-align: top; width: 60%;">
+    <td style="vertical-align: top;">
       <p>Here are some of my live projects:</p>
       <ul>
         <li><strong>✨ Law Advisor</strong>: <a href="https://deepaknetwork.github.io/law.net">law-zone.com</a></li>
