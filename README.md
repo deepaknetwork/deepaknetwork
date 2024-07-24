@@ -27,7 +27,7 @@ Explore my portfolio to see more of my work:
     </div>
 </body>
 </html>
-```
+
 
 
 ## Live Projects 🌐
