@@ -8,7 +8,7 @@ Explore my portfolio to see more of my work:
 ✨[My Portfolio Website](https://deepaknetwork.github.io/portfolio)
 
 ## Live Projects 🌐
-  <div style="display:flex;">
+  <div style="display: inline-block;  vertical-align: top;">
   <div aling="left"> 
    Here are some of my live projects:
 
