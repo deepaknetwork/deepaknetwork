@@ -7,28 +7,8 @@ Explore my portfolio to see more of my work:
 
 ✨[My Portfolio Website](https://deepaknetwork.github.io/portfolio)
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Responsive Divs</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <div class="text-div">
-            <p>Your text goes here</p>
-        </div>
-        <div class="gif-div">
-            <img src="https://github.com/deepaknetwork/deepaknetwork/blob/main/dazzle-line-man-programmer-writing-code-on-a-laptop-1.gif" width="150px"  alt="Autoplaying GIF">
-        </div>
-    </div>
-</body>
-</html>
+You can view the actual HTML file here: [Responsive Divs](https://github.com/deepaknetwork/deepaknetwork/blob/main/index.html)
 
-```
 
 ## Live Projects 🌐
 
