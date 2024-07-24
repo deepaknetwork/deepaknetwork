@@ -10,7 +10,7 @@ Explore my portfolio to see more of my work:
 ## Live Projects 🌐
 
 <div>
-  <div aling="left"> 
+  <div align="left"> 
    Here are some of my live projects:
 
 - **✨Law Advisor**: [law-zone.com](https://deepaknetwork.github.io/law.net) 
@@ -21,8 +21,7 @@ Explore my portfolio to see more of my work:
 
   - A CRM application connecting with customers using REST API and MongoDB.
   </div>
-  
-   <img aling="center" src="https://github.com/deepaknetwork/deepaknetwork/blob/main/dazzle-line-man-programmer-writing-code-on-a-laptop-1.gif" width="300px"  alt="Autoplaying">
+   <img align="center" src="https://github.com/deepaknetwork/deepaknetwork/blob/main/dazzle-line-man-programmer-writing-code-on-a-laptop-1.gif" width="300px"  alt="Autoplaying">
    </div>
 
 Feel free to explore them and give feedback!
