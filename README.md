@@ -8,7 +8,7 @@ Explore my portfolio to see more of my work:
 ✨[My Portfolio Website](https://deepaknetwork.github.io/portfolio)
 
 ## Live Projects 🌐
-  <a>
+  <div style="display:flex;">
   <div aling="left"> 
    Here are some of my live projects:
 
@@ -22,6 +22,6 @@ Explore my portfolio to see more of my work:
   </div>
   
    <img src="https://github.com/deepaknetwork/deepaknetwork/blob/main/dazzle-line-man-programmer-writing-code-on-a-laptop-1.gif" width="300px"  alt="Autoplaying">
-   </a>
+   </div>
 
 Feel free to explore them and give feedback!
