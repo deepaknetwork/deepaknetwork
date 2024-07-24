@@ -7,7 +7,7 @@ Explore my portfolio to see more of my work:
 
 ✨[My Portfolio Website](https://deepaknetwork.github.io/portfolio)
 
-<img src="https://icons8.com/illustrations/illustration/dazzle-line-man-programmer-writing-code-on-a-laptop-1--animated" width="150px" />
+<img src="https://github.com/deepaknetwork/deepaknetwork/blob/main/dazzle-line-man-programmer-writing-code-on-a-laptop-1.gif" width="150px" />
 
 
 ## Live Projects 🌐
