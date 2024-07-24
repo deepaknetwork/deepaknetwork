@@ -10,6 +10,11 @@ Explore my portfolio to see more of my work:
 You can view the actual HTML file here: [Responsive Divs](https://github.com/deepaknetwork/deepaknetwork/blob/main/index.html)
 
 
+<div align="center">
+  <div> </div>
+   <img src="https://github.com/deepaknetwork/deepaknetwork/blob/main/dazzle-line-man-programmer-writing-code-on-a-laptop-1.gif" width="150px"  alt="Autoplaying GIF">
+</div>
+
 ## Live Projects 🌐
 
 Here are some of my live projects:
