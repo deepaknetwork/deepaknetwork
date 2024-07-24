@@ -9,7 +9,7 @@ Explore my portfolio to see more of my work:
 
 ## Live Projects 🌐
   <div style="display: inline-block;  vertical-align: top;">
-  <div aling="left"> 
+  <div aling="left" style="display: inline-block; width: 60; vertical-align: top;"> 
    Here are some of my live projects:
 
 - **✨Law Advisor**: [law-zone.com](https://deepaknetwork.github.io/law.net) 
