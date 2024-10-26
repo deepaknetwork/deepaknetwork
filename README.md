@@ -13,6 +13,10 @@ Explore my portfolio to see more of my work:
   <div align="left"> 
    Here are some of my live projects:
 
+- **✨RoomieReserve**: [RR.com](https://deepaknetwork.github.io/RR) 
+
+  - A guest room booking application using Spring Boot (REST api), React, MongoDB and hosted on Azure
+
 - **✨Law Advisor**: [law-zone.com](https://deepaknetwork.github.io/law.net) 
 
   - A platform that suggests laws based on location. Built with .NET, Angular and Redis.
